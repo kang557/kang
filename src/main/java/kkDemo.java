@@ -1,8 +1,6 @@
 public class kkDemo {
     public static void main(String[] args) {
-        System.out.println("kk");
-        System.out.println("kkk");
-        System.out.println("kkk1");
+        System.out.println("q");
 
     }
 }
